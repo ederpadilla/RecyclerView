@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#7CB342</color>
+    <color name="colorAccent">#CDDC39</color>
+    <color name="black">#000000</color>
+    <color name="visita_programada">#4EC6E4</color>
+    <color name="visita_no_realizada">#84b6ce</color>
+    <color name="visita_cancelada">#204496</color>
+    <color name="visitas_finalizadas">#0092cc</color>
+    <color name="white">#ffffff</color>
+</resources>
